@@ -1,4 +1,4 @@
-## Hi there 👋
+https://badges.pufler.dev/visits/jczucco
 
 <!--
 **jczucco/jczucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
