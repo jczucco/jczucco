@@ -1,4 +1,4 @@
-<img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg">
+Visitors: <img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg">
 
 
 
