@@ -1,4 +1,4 @@
-Visitors: <img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg">
+<img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg"> views.
 
 
 
