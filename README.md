@@ -1,8 +1,11 @@
 <div align="center">
+    <!--
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg">
+    -->
+    ![Visitor Count](https://profile-counter.glitch.me/jczucco/count.svg)
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/jczucco/count.svg)
+
 
 <!--
 **jczucco/jczucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
