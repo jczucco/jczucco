@@ -1,4 +1,6 @@
-https://badges.pufler.dev/visits/jczucco
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/jczucco/count.svg">
+</div>
 
 <!--
 **jczucco/jczucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
